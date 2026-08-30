@@ -1,0 +1,9 @@
+{
+  "name": "core-e1a2",
+  "version": "0.2.7",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
